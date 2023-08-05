@@ -8,7 +8,3 @@ Additionally, I implemented a user-friendly feature that displays the search his
 Throughout the development process, I prioritized scalability, efficiency, and user experience to create a reliable and feature-rich search engine. The project showcases my skills in Java development, database management, web scraping, and front-end design. I am proud to have delivered a valuable tool that simplifies information retrieval and enhances the user's browsing experience.
 
 
-
-
-
-Regenerate
